@@ -67,13 +67,13 @@ activities = {
         "description": "Competitive debate and public speaking skills",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 14,
-        "participants": ["noah@mergington.edu"]
+        "participants": [""]
     },
     "Science Club": {
         "description": "Explore physics, chemistry, and biology through experiments",
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
-        "participants": ["ava@mergington.edu", "ethan@mergington.edu"]
+        "participants": [""]
     }
 }
 
